@@ -1,0 +1,15 @@
+C:\Users\HP\Desktop\Seminar6\Задача42Рекурсия\bin\Debug\net7.0\Задача42Рекурсия.exe
+C:\Users\HP\Desktop\Seminar6\Задача42Рекурсия\bin\Debug\net7.0\Задача42Рекурсия.deps.json
+C:\Users\HP\Desktop\Seminar6\Задача42Рекурсия\bin\Debug\net7.0\Задача42Рекурсия.runtimeconfig.json
+C:\Users\HP\Desktop\Seminar6\Задача42Рекурсия\bin\Debug\net7.0\Задача42Рекурсия.dll
+C:\Users\HP\Desktop\Seminar6\Задача42Рекурсия\bin\Debug\net7.0\Задача42Рекурсия.pdb
+C:\Users\HP\Desktop\Seminar6\Задача42Рекурсия\obj\Debug\net7.0\Задача42Рекурсия.csproj.AssemblyReference.cache
+C:\Users\HP\Desktop\Seminar6\Задача42Рекурсия\obj\Debug\net7.0\Задача42Рекурсия.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\Desktop\Seminar6\Задача42Рекурсия\obj\Debug\net7.0\Задача42Рекурсия.AssemblyInfoInputs.cache
+C:\Users\HP\Desktop\Seminar6\Задача42Рекурсия\obj\Debug\net7.0\Задача42Рекурсия.AssemblyInfo.cs
+C:\Users\HP\Desktop\Seminar6\Задача42Рекурсия\obj\Debug\net7.0\Задача42Рекурсия.csproj.CoreCompileInputs.cache
+C:\Users\HP\Desktop\Seminar6\Задача42Рекурсия\obj\Debug\net7.0\Задача42Рекурсия.dll
+C:\Users\HP\Desktop\Seminar6\Задача42Рекурсия\obj\Debug\net7.0\refint\Задача42Рекурсия.dll
+C:\Users\HP\Desktop\Seminar6\Задача42Рекурсия\obj\Debug\net7.0\Задача42Рекурсия.pdb
+C:\Users\HP\Desktop\Seminar6\Задача42Рекурсия\obj\Debug\net7.0\Задача42Рекурсия.genruntimeconfig.cache
+C:\Users\HP\Desktop\Seminar6\Задача42Рекурсия\obj\Debug\net7.0\ref\Задача42Рекурсия.dll
