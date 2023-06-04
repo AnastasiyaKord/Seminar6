@@ -1,0 +1,15 @@
+C:\Users\HP\Desktop\Seminar6\Задача44\bin\Debug\net7.0\Задача44.exe
+C:\Users\HP\Desktop\Seminar6\Задача44\bin\Debug\net7.0\Задача44.deps.json
+C:\Users\HP\Desktop\Seminar6\Задача44\bin\Debug\net7.0\Задача44.runtimeconfig.json
+C:\Users\HP\Desktop\Seminar6\Задача44\bin\Debug\net7.0\Задача44.dll
+C:\Users\HP\Desktop\Seminar6\Задача44\bin\Debug\net7.0\Задача44.pdb
+C:\Users\HP\Desktop\Seminar6\Задача44\obj\Debug\net7.0\Задача44.csproj.AssemblyReference.cache
+C:\Users\HP\Desktop\Seminar6\Задача44\obj\Debug\net7.0\Задача44.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\Desktop\Seminar6\Задача44\obj\Debug\net7.0\Задача44.AssemblyInfoInputs.cache
+C:\Users\HP\Desktop\Seminar6\Задача44\obj\Debug\net7.0\Задача44.AssemblyInfo.cs
+C:\Users\HP\Desktop\Seminar6\Задача44\obj\Debug\net7.0\Задача44.csproj.CoreCompileInputs.cache
+C:\Users\HP\Desktop\Seminar6\Задача44\obj\Debug\net7.0\Задача44.dll
+C:\Users\HP\Desktop\Seminar6\Задача44\obj\Debug\net7.0\refint\Задача44.dll
+C:\Users\HP\Desktop\Seminar6\Задача44\obj\Debug\net7.0\Задача44.pdb
+C:\Users\HP\Desktop\Seminar6\Задача44\obj\Debug\net7.0\Задача44.genruntimeconfig.cache
+C:\Users\HP\Desktop\Seminar6\Задача44\obj\Debug\net7.0\ref\Задача44.dll
